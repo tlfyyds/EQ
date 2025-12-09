@@ -1,6 +1,6 @@
 POST /Account/Login HTTP/1.1
 
-Host: 121.8.146.131
+Host: 
 
 User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
 
@@ -16,11 +16,11 @@ X-Requested-With: XMLHttpRequest
 
 Content-Length: 61
 
-Origin: http://121.8.146.131
+Origin: 
 
 Connection: close
 
-Referer: http://121.8.146.131/Account/Login
+Referer: 
 
 Cookie: ASP.NET_SessionId=v2svw4yucv1wxfah1zvwsyxy
 
